@@ -1,6 +1,4 @@
 # Insights-on-Amazon-Sales-Report
-# 🕵️‍♀️ Fraud Detection Insights on Amazon Sales Reports
-
 Welcome to the **Insights-on-Amazon-Sales-Report** repository!  
 This project is an interactive journey into the world of **fraud detection** using real-world e-commerce sales data. Dive in to explore, learn, and contribute to cutting-edge analytics that separate genuine sales from fraudulent activity.
 
